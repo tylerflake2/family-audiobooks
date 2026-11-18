@@ -13,7 +13,6 @@
     <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
-    <itunes:block>Yes</itunes:block>
     <item>
       <title>Foreword</title>
       <itunes:title>Foreword</itunes:title>
