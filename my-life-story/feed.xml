@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Life Story - Dennis Edson Flake</title>
+    <link>https://tylerflake2.github.io/family-audiobooks/my-life-story/</link>
+    <atom:link href="https://tylerflake2.github.io/family-audiobooks/my-life-story/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Dennis Edson Flake tells of his early years on the ranch, Snowflake schools and the Mexican colonies, life at the Jim Ranch, and the years after high school. Read in a recreated voice of Dennis Edson Flake, made from a 1985 family interview. The Foreword is read by a computer voice.</description>
+    <itunes:summary>Dennis Edson Flake tells of his early years on the ranch, Snowflake schools and the Mexican colonies, life at the Jim Ranch, and the years after high school. Read in a recreated voice of Dennis Edson Flake, made from a 1985 family interview. The Foreword is read by a computer voice.</itunes:summary>
+    <itunes:author>Dennis Edson Flake</itunes:author>
+    <itunes:image href="https://tylerflake2.github.io/family-audiobooks/my-life-story/cover-square.jpg"/>
+    <image><url>https://tylerflake2.github.io/family-audiobooks/my-life-story/cover-square.jpg</url><title>My Life Story</title><link>https://tylerflake2.github.io/family-audiobooks/my-life-story/</link></image>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Foreword</title>
+      <itunes:title>Foreword</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 1 of 7: Foreword</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/00-foreword.mp3" length="869311" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-01</guid>
+      <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>108</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter One: My Beginning Years</title>
+      <itunes:title>Chapter One: My Beginning Years</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 2 of 7: Chapter One: My Beginning Years</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/01-chapter-one-my-beginning-years.mp3" length="17254086" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-02</guid>
+      <pubDate>Sat, 03 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1436</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter Two: Snowflake Schools and Mexican Colonies</title>
+      <itunes:title>Chapter Two: Snowflake Schools and Mexican Colonies</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 3 of 7: Chapter Two: Snowflake Schools and Mexican Colonies</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/02-chapter-two-snowflake-schools-and-mexican-colonies.mp3" length="19506212" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-03</guid>
+      <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter Three: Life at the Jim Ranch</title>
+      <itunes:title>Chapter Three: Life at the Jim Ranch</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 4 of 7: Chapter Three: Life at the Jim Ranch</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/03-chapter-three-life-at-the-jim-ranch.mp3" length="13526816" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-04</guid>
+      <pubDate>Mon, 05 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1125</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter Four: Post-High School Days</title>
+      <itunes:title>Chapter Four: Post-High School Days</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 5 of 7: Chapter Four: Post-High School Days</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/04-chapter-four-post-high-school-days.mp3" length="13365373" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-05</guid>
+      <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1112</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chapter Five: Called to Serve</title>
+      <itunes:title>Chapter Five: Called to Serve</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 6 of 7: Chapter Five: Called to Serve</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/05-chapter-five-called-to-serve.mp3" length="2069955" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-06</guid>
+      <pubDate>Wed, 07 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>172</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Addendum</title>
+      <itunes:title>Addendum</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>My Life Story, part 7 of 7: Addendum</description>
+      <enclosure url="https://tylerflake2.github.io/family-audiobooks/my-life-story/06-addendum.mp3" length="13149995" type="audio/mpeg"/>
+      <guid isPermaLink="false">my-life-story-07</guid>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1094</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
